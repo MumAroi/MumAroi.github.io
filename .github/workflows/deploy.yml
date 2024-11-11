@@ -22,6 +22,7 @@ jobs:
       - uses: pnpm/action-setup@v4
 
   build:
+    needs: install
     runs-on: ubuntu-latest
     steps:
       - name: Checkout your repository using git
