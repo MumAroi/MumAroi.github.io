@@ -1,20 +1,23 @@
-# build output
-dist/
-# generated types
-.astro/
-.vercel/
+node_modules
 
-# dependencies
-node_modules/
-
-# logs
-pnpm-debug.log*
-
-
-# environment variables
-.env
-.env.production
-
-# macOS-specific files
-.DS_Store
+# Output
+.output
 .vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*

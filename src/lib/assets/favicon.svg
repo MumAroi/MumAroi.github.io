@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Paramas developer icon</title>
+  <rect width="128" height="128" rx="22" fill="#090d0c"/>
+  <path fill="#82f7b6" fill-rule="evenodd" d="M30 21h39c24 0 41 16 41 39S93 99 69 99H52v20H30V21Zm22 21v36h17c12 0 19-7 19-18s-7-18-19-18H52Zm9 6 12 12-12 12h10l12-12-12-12H61Z"/>
+</svg>
